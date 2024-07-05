@@ -1,0 +1,1 @@
+This folder contains previous, now obsolete, `timer` versions. Each folder should have a `dependencies` text file - contains required libraries to compile the source code - and an `assets` folder - contains used assets.
